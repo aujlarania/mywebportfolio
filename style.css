@@ -1,0 +1,39 @@
+* style.css */
+
+/* Body and Font Styling */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f2f5; /* Light gray background */
+}
+
+/* Portfolio Container Styling */
+.portfolio-container {
+    /* Tailwind classes handle most of this, but you can add more specific styles here if needed */
+    /* For example, if you wanted a fixed width instead of max-w-md: */
+    /* width: 400px; */
+}
+
+/* Profile Image Styling */
+.profile-image-wrapper {
+    /* No specific styles needed here as img itself is styled */
+}
+
+.profile-image {
+    /* Tailwind classes handle sizing, rounding, borders, and shadows */
+}
+
+/* Name Heading Styling */
+.name-heading {
+    /* Tailwind classes handle font size, weight, and color */
+}
+
+/* Bio Text Styling */
+.bio-text {
+    /* Tailwind classes handle text color, size, and line height */
+}
+
+/* Contact Button Styling */
+.contact-button {
+    /* Tailwind classes handle background, text color, padding, rounding, shadow, and transitions */
+    /* You can add custom button styles here if you want to override or extend Tailwind */
+}
